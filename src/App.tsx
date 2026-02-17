@@ -16,13 +16,13 @@ export default function Page() {
       "Are you sure?",
       "What if I asked really nicely?",
       "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
-      "PLEASE POOKIE",
+      "With a FIVE STAR ON top",
+      "FOR YOUR FAV. CAPPICHINO COFFEE",
+      "PLEASE CUTIE",
       "But :*(",
-      "I am going to die",
-      "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "I am going to BE DEPRESSED",
+      "Yep I AM ALREADY DEPRESSED",
+      "ok ur talking to MY GHOST",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
@@ -38,7 +38,11 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <div className="my-4 text-4xl font-bold">I hope you wake up every day feeling lighter and more certain about yourself.
+
+You have a beautiful heart, and I hope the world treats it gently.
+
+I’m grateful for what we experienced — and I genuinely wish you nothing but growth, peace and happiness. I AM ALWAYS HERE FOR YOU NOTHING CAN COME IN BETWEEN THAT. ;))</div>
         </>
       ) : (
         <>
@@ -46,7 +50,7 @@ export default function Page() {
             className="h-[200px]"
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
-          <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
+          <h1 className="my-4 text-4xl">PLEASE STAY HAPPY CUTIE</h1>
           <div className="flex items-center">
             <button
               className={`mr-4 rounded bg-green-500 px-4 py-2 font-bold text-white hover:bg-green-700`}
